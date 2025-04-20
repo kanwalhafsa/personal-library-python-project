@@ -1,0 +1,47 @@
+[
+    {
+        "title": "Book: Atomic Habits",
+        "author": "Author: James Clear",
+        "year": "Published: 2018",
+        "genre": "Self-help",
+        "story": "The Book That Changed Me\n\nI remember the day I stumbled upon Atomic Habits by James Clear in a bookstore. I wasn\u2019t looking for anything in particular, but that title pulled me in. Page after page, I realized how small actions build into massive change. That book didn\u2019t just sit on my shelf \u2014 it helped me build consistency in everything I do, from studying to self-care. Sometimes, a single book finds you at the exact moment you need it.",
+        "read": true,
+        "favorite": true
+    },
+    {
+        "title": "Book: The Silent Patient ",
+        "author": "Author: Alex Michaelides ",
+        "year": "Published: 2019",
+        "genre": "Mystery",
+        "story": "From Zero to Reader\n\nI was never a reader. Books felt long, boring, and too slow for my fast-paced mind. But during one long summer break, I challenged myself to read just 10 pages a day. I started with The Silent Patient, a mystery novel that hooked me from the first chapter. Then came another book, then non-fiction. Now, books are my comfort zone. It\u2019s funny how 10 pages a day turned into a lifelong habit.",
+        "read": true,
+        "favorite": true
+    },
+    {
+        "title": "Book: The Alchemist ",
+        "author": "Author: Paulo Coelho ",
+        "year": "Published: 1988",
+        "genre": " Inspirational",
+        "story": "The Night I Read Instead of Scrolling\n\nIt was 2 AM, and I was about to scroll mindlessly through social media. But I paused and opened The Alchemist instead. That night, I got lost in Santiago's journey to follow his dreams. It made me think about my own goals, the signs around me, and the courage it takes to believe in yourself. That book became my late-night friend \u2014 and an eye-opener.",
+        "read": true,
+        "favorite": true
+    },
+    {
+        "title": "Book: Man\u2019s Search for Meaning ",
+        "author": "Author: Viktor E. Frankl ",
+        "year": "Published: 1946",
+        "genre": "Philosophy",
+        "story": "The Power of Re-Reading\n\nThere\u2019s this one book I re-read every year \u2014 Man\u2019s Search for Meaning by Viktor Frankl. Each time, it hits differently. The first time, it helped me get through heartbreak. The next, through a tough academic year. And the last time, it helped me find peace in chaos. Some books are like mirrors \u2014 they reflect different parts of you depending on where you are in life.",
+        "read": true,
+        "favorite": true
+    },
+    {
+        "title": "Book: Tuesdays with Morrie ",
+        "author": "Author: Mitch Albom ",
+        "year": "Published: 1997",
+        "genre": " Life Lessons",
+        "story": "Reading to Heal\n\nWhen I lost someone close, I couldn\u2019t talk to anyone. I didn\u2019t know how. Then I read Tuesdays with Morrie by Mitch Albom. It felt like Morrie was talking directly to me, guiding me, comforting me. Reading didn\u2019t solve everything \u2014 but it reminded me I wasn\u2019t alone in my pain. Stories can be soft places to fall.",
+        "read": true,
+        "favorite": true
+    }
+]
